@@ -1,26 +1,22 @@
-# Instuções de uso do desafios
+# Desafio de SQL em 30 dias
 
-**1**.faça o Fork desse repositório para o seu github.  
-**2**.acesse o colab: https://colab.research.google.com/  
+## Objetivos
 
-![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/challenges/src/img/colab.png)  
+**1** - Exercitar e adquirir conhecimentos na utilização de SQL.  
+**2** - Colaborar com a comunidade.
 
-e faça o login com sua conta do gmail  
+## Descrição
 
-**3**.click em file  
+**1** - Os desafios estão sendo criados diariamente pelo [Romerito Morais](https://www.linkedin.com/in/romeritomorais/).  
+**2** - O link para o respositório do desafio e toda a descrição de como participar está disponível daqui:   
+https://github.com/romeritomorais/30-day-challenges-with-sql  
+**3** - A comunidade está interagindo através de um grupo no whatsapp.
+**4** - Toda a configuração de ambiente já foi pensada e desenvolvida pelo autor.
 
-![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/challenges/src/img/colab-open.png)  
+## Ferramentas utilizadas
 
-**4**.click na aba GitHub e cole o link do repositorio: https://github.com/romeritomorais/30-day-challenges-with-sql.git  
-
-![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/challenges/src/img/colab-git.png)  
-
-**5** após isso vai listar os desafios e tu pode abrir eles clicando em cima:  
-
-![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/challenges/src/img/colab-git-open.png)  
-
-**6** Bom desafio para tu. 
+* Google Colab
+* Banco de dados sqlite3 disponibilizado pelo software Dbeaver   
 
 
-Observação:.  
-O banco de dados usada nos desafios é em sqlite3 disponibilizada pelo software Dbeaver.
+## Minhas soluções
