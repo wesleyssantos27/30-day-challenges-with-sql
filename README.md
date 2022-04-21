@@ -1,7 +1,7 @@
 # Desafio de SQL em 30 dias  
 
 <p align="center">
-  <img width="600" height="28" src=src\to_readme\sqlgiphy.gif>
+  <img width="300" height="128" src=src\to_readme\sqlgiphy.gif>
 </p>
 
 ## Objetivos
